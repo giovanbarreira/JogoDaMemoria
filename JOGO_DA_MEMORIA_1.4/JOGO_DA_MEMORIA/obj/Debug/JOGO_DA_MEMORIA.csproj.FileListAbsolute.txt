@@ -1,0 +1,37 @@
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.exe.config
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.exe
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.pdb
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csprojResolveAssemblyReference.cache
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.Form1.resources
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.Properties.Resources.resources
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csproj.GenerateResource.Cache
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.exe
+C:\Users\811400\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.exe.config
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.exe.config
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.exe
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.pdb
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2012\Projects\JOGO_DA_MEMORIA_PROVA_POLITEC\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csproj.GenerateResource.Cache
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csprojAssemblyReference.cache
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.exe
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.pdb
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.exe.config
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.exe
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\bin\Debug\JOGO_DA_MEMORIA.pdb
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.Form1.resources
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.Properties.Resources.resources
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csproj.GenerateResource.cache
+C:\Users\Giovan\Downloads\JOGO_DA_MEMORIA_003\JOGO_DA_MEMORIA\obj\Debug\JOGO_DA_MEMORIA.csproj.CoreCompileInputs.cache
